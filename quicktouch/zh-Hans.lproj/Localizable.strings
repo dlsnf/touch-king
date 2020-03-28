@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  quicktouch
+
+  Created by nuri Lee on 22/01/2020.
+  Copyright © 2020 nuri Lee. All rights reserved.
+*/
+
+
+
+
+"rank_title" = "排名";
+"fail" = "失败";
+"dark_press" = "如果单击黑屏，它将失败。";
+"home" = "HOME";
+"replay" = "重放";
+"ready" = "READY";
+"go" = "GO!";
+"success" = "成功";
+"time" = "测量时间";
+"set_name" = "请输入名称。";
+"submit" = "提交";
+"cancel" = "取消";
+"error" = "错误";
+"done" = "完成";
+"short_name" = "请输入一个更长的名字。";
+"long_name" = "请输入一个较短的名称。";
+"save_success" = "记录保存成功";
+"save_success_info" = "记录已保存。";
+"second" = "秒";
+"firstRankToday" = "今天排名第一。";
+"firstRankAll" = "尝试获得第一名。";
+"rank_record" = "它被记录在世界排名。";
+"red_win" = "红队获胜";
+"blue_win" = "蓝队胜利";
+"win" = "勝利";
+"lose" = "輸";

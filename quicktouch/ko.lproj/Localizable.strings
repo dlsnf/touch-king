@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  quicktouch
+
+  Created by nuri Lee on 22/01/2020.
+  Copyright © 2020 nuri Lee. All rights reserved.
+*/
+
+
+"rank_title" = "순위";
+"fail" = "실패";
+"dark_press" = "검정화면을 누르면 실패입니다.";
+"home" = "홈으로";
+"replay" = "재시도";
+"ready" = "준비";
+"go" = "시작!";
+"success" = "성공";
+"time" = "측정 시간";
+"set_name" = "이름을 입력하세요.";
+"submit" = "등록";
+"cancel" = "취소";
+"error" = "에러";
+"done" = "확인";
+"short_name" = "이름을 좀 더 길게 입력해 주세요.";
+"long_name" = "이름을 좀 더 짧게 입력해 주세요.";
+"save_success" = "기록 저장 성공";
+"save_success_info" = "기록이 저장되었습니다.";
+"second" = "초";
+"firstRankToday" = "오늘 가장 먼저 1등을 차지해 보세요.";
+"firstRankAll" = "1등을 차지해 보세요.";
+"rank_record" = "세계 순위에 기록 됩니다.";
+"red_win" = "레드팀 승리";
+"blue_win" = "블루팀 승리";
+"win" = "승리";
+"lose" = "패배";

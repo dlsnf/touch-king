@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  quicktouch
+
+  Created by nuri Lee on 22/01/2020.
+  Copyright © 2020 nuri Lee. All rights reserved.
+*/
+
+
+"rank_title" = "ランク";
+"fail" = "失敗";
+"dark_press" = "黒い画面をクリックすると失敗します。";
+"home" = "HOME";
+"replay" = "リプレイ";
+"ready" = "READY";
+"go" = "GO!";
+"success" = "成功";
+"time" = "測定時間";
+"set_name" = "名前を入力してください。";
+"submit" = "登録";
+"cancel" = "キャンセル";
+"error" = "エラー";
+"done" = "完了";
+"short_name" = "長い名前を入力してください。";
+"long_name" = "短い名前を入力してください。";
+"save_success" = "保存の成功を記録する";
+"save_success_info" = "レコードが保存されました。";
+"second" = "秒";
+"firstRankToday" = "今日一位になります。";
+"firstRankAll" = "最初のランクを取得してみてください。";
+"rank_record" = "世界ランキングに記録されています。";
+"red_win" = "赤チームの勝利";
+"blue_win" = "青チームの勝利";
+"win" = "勝利";
+"lose" = "負ける";

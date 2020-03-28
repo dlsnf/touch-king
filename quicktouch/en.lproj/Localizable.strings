@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  quicktouch
+
+  Created by nuri Lee on 22/01/2020.
+  Copyright © 2020 nuri Lee. All rights reserved.
+*/
+
+
+"rank_title" = "Rank";
+"fail" = "Fail";
+"dark_press" = "If you click on the black screen, it fails.";
+"home" = "HOME";
+"replay" = "Replay";
+"ready" = "READY";
+"go" = "GO!";
+"success" = "Success";
+"time" = "Measuring time";
+"set_name" = "Please enter a name.";
+"submit" = "Submit";
+"cancel" = "Cancel";
+"error" = "Error";
+"done" = "Done";
+"short_name" = "Please enter a longer name.";
+"long_name" = "Please enter a shorter name.";
+"save_success" = "Record save success";
+"save_success_info" = "The record has been saved.";
+"second" = "s";
+"firstRankToday" = "Take the first rank today.";
+"firstRankAll" = "Try to get first rank.";
+"rank_record" = "It is recorded in the world ranking.";
+"red_win" = "RED team win";
+"blue_win" = "BLUE team win";
+"win" = "WIN";
+"lose" = "LOSE";
